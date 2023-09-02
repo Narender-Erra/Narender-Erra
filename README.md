@@ -1,6 +1,6 @@
 Hi, I am Narender 👋
 
-I love learning, My main area of interest lies in software development and I have a love/hate relationship with Programming.😐 Connect with me as 🔭 I’m currently looking for new opportunities .
+I love learning, My main area of interest lies in Frontend development. Connect with me as 🔭 I’m currently looking for new opportunities .
  
 
 - ✍️ i am currently pursuing Frontend-Development course through @ SCC
