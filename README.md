@@ -6,7 +6,7 @@ Hi, I am Narender 👋
 -  📖 ask me about...anything
 -  🎗️ fun-fact: I have a Doctorate in Sports-Biomechanics!
 - 📫 How to reach me @ narendererra@gmail.com
--  i am Originally from 🇮🇳, now residing in 🇺🇸 
+-  i am Originally from India, now residing in US.
 
 <!---
 Narender-Erra/Narender-Erra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
