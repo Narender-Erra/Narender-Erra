@@ -4,7 +4,7 @@ I love learning, My main area of interest lies in Frontend development.
  
 
 - ✍️ i am currently pursuing Frontend-Development course through @ SCC
-- 🌱 I’m also learning a full-stack software development @ Knowledgehut
+- 🌱 I’m also learning full-stack software development @ Knowledgehut
 -  📖 ask me about...anything
 -  🎗️ fun-fact: I have a Doctorate in Sports-Biomechanics!
 - 📫 How to reach me @ narendererra@gmail.com
